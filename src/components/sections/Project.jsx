@@ -88,7 +88,7 @@ export const Projects = () => {
             >
               <h3 className="text-xl font-bold mb-2">Capstone Project</h3>
               <p className="text-gray-400 mb-4">
-                Assignment given bu University
+                Assignment given by University
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["HTML" , "CSS"].map(
